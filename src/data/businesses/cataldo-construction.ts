@@ -50,7 +50,7 @@ export const config: BusinessConfig = {
         "Open-concept conversions",
         "Finish selection guidance",
       ],
-      image: "",
+      image: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_4vqJxVbkk6L95tOTva3sE_VbgGP2WtLEjpsYHg5_EqhtLlCeKZEFDfWm_QuYBJJyy6I4G_naVZpW2w9qNXuNITJICigQg5WsdCZgX64UmRcW_KAs0ZYvdimLsgRtifsl6VJTtQ=w1200-h900-k-no",
     },
     {
       title: "Commercial Remodeling",
@@ -65,7 +65,7 @@ export const config: BusinessConfig = {
         "ADA compliance upgrades",
         "Commercial flooring",
       ],
-      image: "",
+      image: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyRfM5F3j6PLWVbY8cY1IuE7cuidJuZFqst1hr-ejN4U7v18gRb6a1rfIwEfb8Evo06BjhJXKili227AWYnz-KOOtaUj_2IYFrtCqFXSCrn2xB-uuaoZwvfNIiYdjg_hteeQ4=w1200-h900-k-no",
     },
     {
       title: "Masonry",
@@ -80,7 +80,7 @@ export const config: BusinessConfig = {
         "Retaining walls",
         "Chimney repair",
       ],
-      image: "",
+      image: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFab913A6fQQlwPtLGXOTjrgKnp5v9GlasrObFHjqMze71UnqeJsZE2_pUDMhNAQPplBpm4mBc14pDLfcwf1VlBrSlqRI-79kGKQX_1dhqyKq9-Qywf0L_1GTsQLUUWOs67Jdky=w1200-h900-k-no",
     },
     {
       title: "Concrete",
@@ -95,7 +95,7 @@ export const config: BusinessConfig = {
         "Stamped concrete",
         "Concrete repair",
       ],
-      image: "",
+      image: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2uuWV9qxFTJRQ1O70iEd9tl4ga_goCm4toz8v4F7g1tfGx3ScdvctaAPwbM9nHPePuXAwHF3DJ5bae0XRf3pPSBBvHvBzTTVBqYSHWkznYeaXfDj0rn9G9VQZAt_XI0nYrjcr=w1200-h900-k-no",
     },
     {
       title: "New Residential Construction",
@@ -110,7 +110,7 @@ export const config: BusinessConfig = {
         "Foundation to finish",
         "Energy-efficient builds",
       ],
-      image: "",
+      image: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFm16H5vZwCmZ4JlDSRUQGp_4IRk7BkddJ4OIw4q0zo7YJ2qjnJlbZv7K52_Cmn8s2m8B0P1PRBNpDmnzy6610xdQiA1Ffltk95MwkjBKhU6WWpEUXsFTDnhVGB5NLGn1ah0Ma9OTNw1wb1=w1200-h900-k-no",
     },
     {
       title: "New Commercial Construction",
@@ -125,7 +125,7 @@ export const config: BusinessConfig = {
         "Code compliance",
         "Project management",
       ],
-      image: "",
+      image: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHN09EllE766AX9lM8Z8SNtkntMGJvvnr3cfP7VtY__uLgz2eBvmdAjE5AaZJ98_nGrZOG5PExQkHy2x9Mx-FPIRJyrmgEIqzv2JpRXKnJHzeWqvcyqCNhtSzQuAbPAhrcpr-ol=w1200-h900-k-no",
     },
     {
       title: "Decks",
@@ -140,7 +140,7 @@ export const config: BusinessConfig = {
         "Railing systems",
         "Deck repair & refinishing",
       ],
-      image: "",
+      image: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAvr1GCA8bVSjYDstQ1Sy8EeF9LTEDtxNfjel5elfVy6cR0hszyVt33_SamJi9HF1qmNxV_IMfqGcxS3ZLcT3XtU296ikvLgr7Hmp4M4yqlX4kcv-xLgeTDlWU7mzcblDwVCt2=w1200-h900-k-no",
     },
     {
       title: "Renovations",
@@ -155,7 +155,7 @@ export const config: BusinessConfig = {
         "Window & door replacement",
         "Insulation upgrades",
       ],
-      image: "",
+      image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&h=600&fit=crop&q=80",
     },
   ],
   reviews: [
@@ -210,6 +210,11 @@ export const config: BusinessConfig = {
     { src: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFm16H5vZwCmZ4JlDSRUQGp_4IRk7BkddJ4OIw4q0zo7YJ2qjnJlbZv7K52_Cmn8s2m8B0P1PRBNpDmnzy6610xdQiA1Ffltk95MwkjBKhU6WWpEUXsFTDnhVGB5NLGn1ah0Ma9OTNw1wb1=w1200-h900-k-no", alt: "Project work", tag: "Interior" },
     { src: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHN09EllE766AX9lM8Z8SNtkntMGJvvnr3cfP7VtY__uLgz2eBvmdAjE5AaZJ98_nGrZOG5PExQkHy2x9Mx-FPIRJyrmgEIqzv2JpRXKnJHzeWqvcyqCNhtSzQuAbPAhrcpr-ol=w1200-h900-k-no", alt: "Project work", tag: "Framing" },
     { src: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAvr1GCA8bVSjYDstQ1Sy8EeF9LTEDtxNfjel5elfVy6cR0hszyVt33_SamJi9HF1qmNxV_IMfqGcxS3ZLcT3XtU296ikvLgr7Hmp4M4yqlX4kcv-xLgeTDlWU7mzcblDwVCt2=w1200-h900-k-no", alt: "Project work", tag: "Roofing" },
+    { src: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&h=600&fit=crop&q=80", alt: "Project work", tag: "Exterior" },
+    { src: "https://images.unsplash.com/photo-1541123603104-512919d6a96c?w=800&h=600&fit=crop&q=80", alt: "Project work", tag: "Remodel" },
+    { src: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&h=600&fit=crop&q=80", alt: "Project work", tag: "Interior" },
+    { src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop&q=80", alt: "Project work", tag: "Roofing" },
+    { src: "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=800&h=600&fit=crop&q=80", alt: "Project work", tag: "Construction" },
   ],
   heroImage: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_4vqJxVbkk6L95tOTva3sE_VbgGP2WtLEjpsYHg5_EqhtLlCeKZEFDfWm_QuYBJJyy6I4G_naVZpW2w9qNXuNITJICigQg5WsdCZgX64UmRcW_KAs0ZYvdimLsgRtifsl6VJTtQ=w1600-h1200-k-no",
   logoImage: "",

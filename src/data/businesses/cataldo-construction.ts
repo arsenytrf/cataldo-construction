@@ -1,7 +1,7 @@
 import type { BusinessConfig } from "@/types";
 
-const u = (id: string, w = 800, h = 600) =>
-  `https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_4vqJxVbkk6L95tOTva3sE_VbgGP2WtLEjpsYHg5_EqhtLlCeKZEFDfWm_QuYBJJyy6I4G_naVZpW2w9qNXuNITJICigQg5WsdCZgX64UmRcW_KAs0ZYvdimLsgRtifsl6VJTtQ=w800-h600-k-no"cataldo-construction",
+export const config: BusinessConfig = {
+  slug: "cataldo-construction",
   company: {
     name: "Cataldo Construction Company LLC",
     shortName: "Cataldo Construction",
@@ -50,7 +50,7 @@ const u = (id: string, w = 800, h = 600) =>
         "Open-concept conversions",
         "Finish selection guidance",
       ],
-      image: u("photo-1600596542815-ffad4c1539a9"),
+      image: "",
     },
     {
       title: "Commercial Remodeling",
@@ -65,7 +65,7 @@ const u = (id: string, w = 800, h = 600) =>
         "ADA compliance upgrades",
         "Commercial flooring",
       ],
-      image: u("photo-1504307651254-35680f356dfd"),
+      image: "",
     },
     {
       title: "Masonry",
@@ -80,7 +80,7 @@ const u = (id: string, w = 800, h = 600) =>
         "Retaining walls",
         "Chimney repair",
       ],
-      image: u("photo-1562259929-b4e1fd3aef09"),
+      image: "",
     },
     {
       title: "Concrete",
@@ -95,7 +95,7 @@ const u = (id: string, w = 800, h = 600) =>
         "Stamped concrete",
         "Concrete repair",
       ],
-      image: u("photo-1607400201889-565b1ee75f8e"),
+      image: "",
     },
     {
       title: "New Residential Construction",
@@ -110,7 +110,7 @@ const u = (id: string, w = 800, h = 600) =>
         "Foundation to finish",
         "Energy-efficient builds",
       ],
-      image: u("photo-1600585154340-be6161a56a0c"),
+      image: "",
     },
     {
       title: "New Commercial Construction",
@@ -125,7 +125,7 @@ const u = (id: string, w = 800, h = 600) =>
         "Code compliance",
         "Project management",
       ],
-      image: u("photo-1541123603104-512919d6a96c"),
+      image: "",
     },
     {
       title: "Decks",
@@ -140,7 +140,7 @@ const u = (id: string, w = 800, h = 600) =>
         "Railing systems",
         "Deck repair & refinishing",
       ],
-      image: u("photo-1600573472592-401b489a3cdc"),
+      image: "",
     },
     {
       title: "Renovations",
@@ -155,7 +155,7 @@ const u = (id: string, w = 800, h = 600) =>
         "Window & door replacement",
         "Insulation upgrades",
       ],
-      image: u("photo-1585128792020-803d29415281"),
+      image: "",
     },
   ],
   reviews: [
@@ -211,7 +211,7 @@ const u = (id: string, w = 800, h = 600) =>
     { src: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHN09EllE766AX9lM8Z8SNtkntMGJvvnr3cfP7VtY__uLgz2eBvmdAjE5AaZJ98_nGrZOG5PExQkHy2x9Mx-FPIRJyrmgEIqzv2JpRXKnJHzeWqvcyqCNhtSzQuAbPAhrcpr-ol=w1200-h900-k-no", alt: "Project work", tag: "Framing" },
     { src: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAvr1GCA8bVSjYDstQ1Sy8EeF9LTEDtxNfjel5elfVy6cR0hszyVt33_SamJi9HF1qmNxV_IMfqGcxS3ZLcT3XtU296ikvLgr7Hmp4M4yqlX4kcv-xLgeTDlWU7mzcblDwVCt2=w1200-h900-k-no", alt: "Project work", tag: "Roofing" },
   ],
-  heroImage: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_4vqJxVbkk6L95tOTva3sE_VbgGP2WtLEjpsYHg5_EqhtLlCeKZEFDfWm_QuYBJJyy6I4G_naVZpW2w9qNXuNITJICigQg5WsdCZgX64UmRcW_KAs0ZYvdimLsgRtifsl6VJTtQ=w1600-h1200-k-no", 1600, 900),
+  heroImage: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_4vqJxVbkk6L95tOTva3sE_VbgGP2WtLEjpsYHg5_EqhtLlCeKZEFDfWm_QuYBJJyy6I4G_naVZpW2w9qNXuNITJICigQg5WsdCZgX64UmRcW_KAs0ZYvdimLsgRtifsl6VJTtQ=w1600-h1200-k-no",
   logoImage: "",
   theme: {
     category: "contractor",
